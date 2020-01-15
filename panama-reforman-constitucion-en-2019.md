@@ -40,7 +40,8 @@ en juez y parte.
 
 Desatendiendo a la ya expuesta naturaleza extralegal del proceso, el día 16 de
 julio el consejo de gabinete resuelve presentar ante la Asamblea Nacional el
-anteproyecto de reformas "necesarias y urgentes" del CCND sin modificaciones.
+[anteproyecto de reformas](https://www.concertacion.org.pa/tmp/file/473/CCND_AntRefConst_2019_Final.pdf)
+"necesarias y urgentes" del CCND sin modificaciones.
 Los diputados se dispusieron entonces a introducir modificaciones socavando aún
 más el carácter transparente y participativo que pretende el CCND promover desde
 sus acuerdos. Ya el 23 de julio la Asamblea cita a De Obarrio diciendo que se
@@ -58,10 +59,12 @@ octubre. Entre las 71 reformas de la versión del primer bloque aprobada el 17 d
 octubre, está la del artículo 109 que faculta al Ministerio de Salud y a la Caja
 de Seguro Social a adquirir "sin control previo y sin intermediario" medicamentos
 e insumos. Es de notar que no se menciona tal modificación en la versión del 31
-de octubre del cuadro comparativo del CCND, instancia encargada por ley de facilitar
+de octubre del [cuadro comparativo del CCND](https://www.concertacion.org.pa/tmp/file/486/Comparativo_AntActoConstCCND-AsambleaLegislatura1_vF2.pdf),
+instancia encargada por ley de facilitar
 a la ciudadanía el seguimiento. Las 40 reformas del "documento base" del CCND, al
-aprobarse el 28 de octubre el último bloque, ya se habían transformado en 96
-artículos (94 de reformas) [^1], en los que se empodera a los diputados con
+aprobarse el 28 de octubre el último bloque, ya se habían transformado en
+[96 artículos](https://www.concertacion.org.pa/tmp/file/473/ACTO-CONSTITUCIONAL-1-APROBADO.pdf)
+(94 de reformas) [^1], en los que se empodera a los diputados con
 diversas facultades no contempladas en la constitución vigente. Se introduce el
 artículo 138-A que impiden a los candidatos de libre postulación estar inscritos
 en partidos políticos y los limita a representar a "los ciudadanos que no cuentan
@@ -153,4 +156,7 @@ y consenso de los diversos grupos que lo conforman. La ciudadanía va gradualmen
 manifestando con sus acciones una verdadera cultura democrática apta para llegar
 a los amplios consensos que requeriría un proceso constituyente auténtico y soberano.
 
-[^1]: Corrección 11/11/2019: esta publicación utilizaba la cifra de 107 artículos reportada por varios medios. El Acto Constitucional muestra 96 artículos.
+[^1]: Corrección 11/11/2019: esta publicación utilizaba la cifra de 107 artículos
+reportada por varios medios. El
+[Acto Constitucional](https://www.concertacion.org.pa/tmp/file/473/ACTO-CONSTITUCIONAL-1-APROBADO.pdfhttps://www.concertacion.org.pa/tmp/file/473/ACTO-CONSTITUCIONAL-1-APROBADO.pdf)
+muestra 96 artículos.

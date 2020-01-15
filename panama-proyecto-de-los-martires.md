@@ -11,7 +11,6 @@ tags: ["Panamá", "Estados Unidos", "Canal de Panamá", "Zona del Canal"]
 _La autora es Dania Batista, historiadora y pedagoga, directora del
 [Podcast Memoria Histórica de Panamá](https://anchor.fm/daniabastista/episodes/El-proyecto-poltico-de-los-mrtires-del-9-de-enero-de-1964-ea38s5)._
 
-
 En primera instancia debemos considerar el 9 de enero de 1964 como la reacción
 legítima del pueblo panameño representada por la gloriosa generación de estudiantes
 de esa época. Éstos exigían se cumpliera con lo pactado entre Estados Unidos y
