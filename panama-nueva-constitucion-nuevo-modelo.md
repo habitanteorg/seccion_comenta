@@ -8,9 +8,6 @@ categories: ["Democracia en Panamá"]
 tags: ["Panamá", "constitución", "economía"]
 ---
 
-_Artículo publicado originalmente en el sitio
-[Panamá América](panamaamerica.com.pa/opinion/una-nueva-constitucion-para-un-nuevo-modelo-1153975)._
-
 La sociedad panameña se encuentra en una situación en que su modelo de funcionamiento
 se encuentra agotado.
 
