@@ -17,12 +17,12 @@ el colapso social" por Roger Hallam.
 
 El libro conciso y lúcido de Hallam, el cual hace eco de "[Sentido común](http://www.ushistory.org/paine/commonsense/)"
 por Thomas Paine, dice lo que muchos de nosotros ahora sabemos que es cierto pero
-no decimos: Si no reemplazamos a las élites gobernantes pronto estamos
+no decimos: Si no reemplazamos a las élites gobernantes pronto, estamos
 [acabados como especie](https://www.bbc.com/news/science-environment-48964736).
 Es un caso convincente, bien argüido por la rebelión global—la
 única forma de resistencia que puede salvarnos del colapso del ecosistema y
 del genocidio inducido por humanos. Correctamente analiza el fracaso de los
-activistas ambientalistas en grupos tales como [350.org](https://350.org/about/#how-we-work) en relación a entender
+activistas medioambientales en grupos tales como [350.org](https://350.org/about/#how-we-work) en relación a entender
 y confrontar el poder corporativo global y así hacer un impacto significativo
 a medida que nos dirigimos desenfrenadamente hacia el ecocidio.
 "Sentido común para el siglo 21" es un manual de supervivencia para la
@@ -32,7 +32,7 @@ especie humana.
 advierte con franqueza Hallam, cofundador de [Extinction Rebellion](https://rebellion.earth/).
 
 El activismo, las protestas, el cabildeo, las peticiones, solicitudes
-a Naciones Unidas y la confianza engañada en los políticos "liberales"
+a Naciones Unidas y la confianza equivocada en los políticos "liberales"
 tales como Barack Obama y Al Gore, junto con el trabajo de incontables [ONG](http://www.ngo.org/ngoinfo/define.html)s,
 han estado acompañados por un aumento del 60% en las emisiones de dióxido
 de carbono desde 1990. Naciones Unidas estima que esto será agravado por
@@ -50,9 +50,9 @@ dióxido de carbono subieron en 3.5 partes por millón (ppm) el último año,
 alcanzando los 415 ppm. Hallam advierte que estamos a sólo una década de los 450 ppm,
 el nivel equivalente a un aumento de 2 grados centígrados de la temperatura promedio.
 
-"Seamos francos acerca de los que de hecho significa 'catástrofe' en este contexto,"
+"Seamos francos acerca de lo que de hecho significa 'catástrofe' en este contexto,"
 escribe Hallam. "Estamos considerando aquí la muerte y sufrimiento lento y agonizante
-de miles de millones de personas. Un análisis moral iría así: una opinión científica
+de miles de millones de personas. Un análisis moral procedería así: una opinión científica
 reciente afirmó que a 5°C sobre la temperatura promedio preindustrial, estamos
 considerando un sistema ecológico capaz de sostener a sólo mil millones de personas.
 Esto significa que de 6 a 7 mil millones de personas habrán muerto dentro de
@@ -84,10 +84,10 @@ predicho y los graciares de Himalaya se derretirían dos veces más rápido de l
 tomar en cuenta aumentos adicionales de la temperatura debido a las emisiones de causa humana
 en el transcurso de los próximos diez años."
 
-"En pocas palabras, estamos jodidos—la única pregunta es por cuánto y quá tan pronto?" Hallam continúa,
+"En pocas palabras, estamos jodidos—la única pregunta es por cuánto y qué tan pronto?" Hallam continúa,
 "Aceptamos este destino? Sugiero que no. Muchas personas con auto-respeto, quienes pueden sobreponerse
 a la falla humana de negarse a creer aquello de lo que no gustan, ahora aceptan lo que es obvio
-al considerar las ciencias naturales. Pero aún tienen que determinar las implicaiones políticas y sociales."
+al considerar las ciencias naturales. Pero aún tienen que determinar las implicaciones políticas y sociales."
 
 Hallam entiende que incluso con reformistas en el poder—y las mutaciones políticas causadas por el
 neoliberalismo no han favorecido el surgimiento de reformadores sino que en vez de esto han favorecido
@@ -112,14 +112,14 @@ con nuevos sistemas sociales de políticas, prácticas y cultura. Es una realiza
 pero es momento de aceptar nuestra realidad."
 
 Sólo trayendo decenas de miles de personas a las calles a interrumpir y paralizar el funcionamiento
-del estado y el capitalismo de las finanzas—en pocas palabras, una rebelión-podemos salvarnos a
+del estado y el capitalismo de las finanzas—en pocas palabras, una rebelión—podemos salvarnos a
 nosotros mismos, escribe. Comprende el hecho que las protestas deben ser no violentas y deben
 enfocarse sobre los gobiernos.
 
 "Después de una o dos semanas de seguir este plan, los registros históricos muestran que un régimen
 colapsa con alta probabilidad o se ve forzado a promulgar cambios estructurales mayores," escribe.
 "Esto se debe a las dinámicas evidenciadas de lucha política no violenta. A las autoridades se
-les presenta un dilema imposible. Por un lado pueden permitir que la ocupación diaría de las calles
+les presenta un dilema imposible. Por un lado pueden permitir que la ocupación diaria de las calles
 de la ciudad continúe. Esto sólo exhortaría a una mayor participación y socavaría su autoridad.
 Por otro lado, si optan por reprimir a los manifestantes, se arriesgan a un efecto de tiro por la culata.
 Allí es cuando más gente sale a la calle en respuesta a los sacrificios de aquellos a quienes
@@ -130,13 +130,13 @@ de su miedo y decide pararse de lado de quienes se están sacrificando a sí mis
 estructural para la transformación de emergencia de la economía que necesitamos. Por supuesto,
 esta propuesta no tiene certeza absoluta de funcionar pero sí posibiliad sustancial." Lo que sí tiene
 certeza, sin embargo, es que la actividad reformista de campaña y cabildeo fallará totalmente
-como lo ha hecho por décadas. El cambio es estructural que ahora necesitamos objetivamente
+como lo ha hecho por décadas. El cambio estructural que ahora necesitamos objetivamente
 tiene que ocurrir demasiado rápido para cualquier estrategia convecional."
 
 Ninguna rebelión tiene éxito, Hallam entiende, a menos que apele a un segmento de la élite
 gobernante. Una vez que hayan divisiones en la clase gobernante, la parálisis le sucede y
-al final fragments más y más grandres de la élite desertan hacia aquellos quienes se rebelan
-y se rehusan a defender una clase gobernanda desacreditada.
+al final fragmentos más y más grandes de la élite desertan hacia aquellos quienes se rebelan
+y se rehusan a defender una clase gobernante desacreditada.
 
 "La acción masiva no puede sólo ser no violenta en un sentido físico pero también debe involucrar
 respeto activo hacia el público y la oposición, sin importar sus respuestas represivas,"
@@ -144,7 +144,7 @@ Hallam nota.
 
 Escribe específicamente de la policía:
 
-> Un enfoquo proactivo a la policía es una manera efectiva de habilitar la desobediencia civil masiva
+> Un enfoque proactivo a la policía es una manera efectiva de habilitar la desobediencia civil masiva
 > en el presente contexto. Esto significa encontrarse con la policía tan pronto como llegue ésta a la
 > escena y decir dos cosas claramente: "Esto es una acción pacífica no violenta" y
 > "Respetamos que usted tiene que hacer su trabajo aquí." Tenemos evidencia repetida de que esto
@@ -166,29 +166,29 @@ Escribe específicamente de la policía:
 "Sería beficioso para la Rebelión que la gente esté en prisión antes del evento mayor de resistencia civil
 para crear publicidad nacional," escribe Hallam, a quien encarcelaron por seis semanas este otoño en Londres.
 "La mejor manera de potencialmente hacer esto es que la gente haga actos repetidos de desobediencia
-civil pacífica y entonces lea en voz alta declaraciones tan pronto entren a la corte, ignorando al juez
-y al personal de la corte. Con una voz alta podrían decir 'Estoy obligado por el deber a informar
+civil pacífica y entonces lea en voz alta declaraciones tan pronto entre a la corte, ignorando al juez
+y al personal de la corte. Con una voz alta podrían decir 'Estoy obligada/o por el deber a informar
 a esta corte que al traerme aquí es cómplice en el "el mayor crimen de todos" es decir, la destrucción
 de nuestro planeta, hijos e hijas, debido a la inacción corrupta del régimen que gobierna, cuya voluntad
 habéis elegido aplicar. No acataré las reglas de esta corte y procederé ahora a explicar la amenaza
 existencial que se presenta a toda la vida, comunidades y nación ...' y luego comenzar un largo discurso
 sobre la crisis ecológica.
 
-"Esta probablemente resultará en que el arrestado esté en desacato de la corte y puesto en prisión
+"Esto probablemente resultará en que el arrestado esté en desacato de la corte y puesto en prisión
 preventiva o sometido a una sentencia de prisión. Será un dilema para las autoridades (dependiendo del régimen)
 en cuanto a qué tan larga sería la prisión preventiva o sentencia. Si el periodo de reclusión es corto,
-entonces la gente estará afuera pronto y pueden continuar la desobediencia civil pacífica.
+entonces la gente estará afuera pronto y podrá continuar la desobediencia civil pacífica.
 Si la sentencia es larga, creará un drama mediático nacional el cual alimentará la rebelión en su totalidad."
 
-Las asambleas populares tienen que formarse para tomar el poder y monitorear una reducción dramática y velos
+Las asambleas populares tienen que formarse para tomar el poder y monitorear una reducción dramática y veloz
 en las emisiones de CO<sub>2</sub>.
 
 La ciencia es inequívoca. El aumento de la temperatura tiene que estabilizarse en un punto entre 1 grado C y 1.5 grados C
 arriba de los niveles preindustriales, y los niveles de CO<sub>2</sub> deben estabilizarse en aproximadamente 350 ppm.
-Tenemos que encontrar maneras de eliminar grandemente los gases de invernadero creados por los humanos
-de todos los tipos dentro de una década, dos a los máximo, y establecer programas para enfríar la Tierra,
+Tenemos que encontrar maneras de eliminar grandemente los gases invernaderos antropógenos
+de todos los tipos dentro de una década, dos a los máximo, y establecer programas para enfriar la Tierra,
 incluyendo plantar billones de árboles para absorber el CO<sub>2</sub>. Una de las maneras más fáciles y significativas
-de las que un individuo puede directamente reducir su impacto ambiental sobre el planeta es
+en las que un individuo puede directamente reducir su impacto ambiental sobre el planeta es
 [comer una dieta libre de productos animales](https://www.theguardian.com/environment/2018/may/31/avoiding-meat-and-dairy-is-single-biggest-way-to-reduce-your-impact-on-earth?fbclid=IwAR3_x2Qza-4NjD2GxX6EImKRcIstEN2-3JPjxHtcHrGgDZ8JBb-rkZjUh94).
 La industria agrícola animal compite con la industria de los
 cómbustibles fósiles como una de las más grandes causas multi-factoriales de la catástrofe climática.
