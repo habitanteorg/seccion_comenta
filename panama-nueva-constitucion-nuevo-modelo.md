@@ -1,5 +1,5 @@
 ---
-title: "Panama: Una nueva constitución para un nuevo modelo"
+title: "Panamá: Una nueva constitución para un nuevo modelo"
 linkTitle: "Nueva constitución, nuevo modelo"
 date: 2020-01-14
 authors: ["juan-jovane"]

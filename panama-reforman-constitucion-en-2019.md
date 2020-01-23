@@ -1,5 +1,5 @@
 ---
-title: "Panama: Reforman constitución con incongruencia, imposición e inclemencia"
+title: "Panamá: Reforman constitución con incongruencia, imposición e inclemencia"
 linkTitle: "Reforman Constitución en 2019"
 date: 2019-11-08
 authors: ["atta-cephalotes"]
