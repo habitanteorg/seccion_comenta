@@ -1,5 +1,5 @@
 ---
-title: "Cambio Climático: Última movida de Bolsonaro provoca amplia consternación"
+title: "Cambio Climático: Exgeneral asume protección del Amazonas en Brasil"
 linkTitle: "Última movida de Bolsonaro"
 date: 2020-02-03
 slug: "cambio-climatico-ultima-movida-bolsonaro"
@@ -8,7 +8,10 @@ categories: ["Cambio climático"]
 tags: ["cambio climático", "calentamiento global", "medio ambiente", "Amazonas", "incendios forestales", "Brasil"]
 ---
 
-Alarmado por las advertencias de que su descuido de la necesidad de proteger
+_El autor es Jan Rocha,_ Climate News Network.
+_[Artículo original](https://climatenewsnetwork.net/ex-general-takes-over-brazils-amazon-protection/) en inglés._
+
+SÃO PAULO, 31 de enero, 2020 − Alarmado por las advertencias de que su descuido de la necesidad de proteger
 el Amazonas podría llevar a la desinversión y a prohibiciones de exportación,
 el presidente de Brasil Jair Bolsonaro ha recurrido a su solución usual a problemas:
 convocar al ejército.
