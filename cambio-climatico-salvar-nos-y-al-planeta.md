@@ -12,7 +12,7 @@ _El autor es el periodista ganador del Premio Pulitzer, Chris Hedges.
 [Artículo original](https://www.truthdig.com/articles/how-to-save-the-planet-and-ourselves/) en inglés._
 
 Si lee sólo un libro este año, debería ser "[Sentido común para el siglo 21](https://www.chelseagreen.com/product/common-sense-for-the-21st-century/):
-Sólo la rebelión no violenta puede detener ahora el desmoranamiento climático y
+Sólo la rebelión no violenta puede detener ahora el desmoronamiento climático y
 el colapso social" por Roger Hallam.
 
 El libro conciso y lúcido de Hallam, el cual hace eco de "[Sentido común](http://www.ushistory.org/paine/commonsense/)"
@@ -58,12 +58,12 @@ considerando un sistema ecológico capaz de sostener a sólo mil millones de per
 Esto significa que de 6 a 7 mil millones de personas habrán muerto dentro de
 las próximas una o dos generaciones. Incluso si esta cifra está errada en un 90%,
 esto significa que 600 millones de personas se enfrentan a la inanición y a la muerte
-en los próximos 40 años. Esto es 12 veces peor que la cifra de muertos (civíles y solados)
+en los próximos 40 años. Esto es 12 veces peor que la cifra de muertos (civiles y solados)
 de la Segunda Guerra Mundial y muchas veces la cifra de muertos de todo genocidio
 conocido por la historia. Es 12 veces peor que el horror del Nazismo y el Fascismo del
 siglo 20. Esto es lo que nuestros gobiernos genocidas alrededor del mundo están
 voluntariamente permitiendo que suceda. La palabra 'genocidio' podría parecer fuera
-de contexto aquí. La palabra está usualmente asociada con la limpieza étinica o
+de contexto aquí. La palabra está usualmente asociada con la limpieza étnica o
 con atrocidades mayores como el Holocausto. Sin embargo, el diccionario de inglés
 Merriam-Webster lo define como 'la destrucción sistemática y deliberada de un grupo
 racial, político, o cultural.'"
@@ -79,7 +79,7 @@ ocurren dentro de nuestras sociedades en la próxima década. Esto no es un asun
 pero de simples matemáticas y física." Hallam puntualiza que la mayoría de las predicciones
 de los científicos del clima han resultado ser enormemente sobre-optimistas.
 "... La ciencia reciente indica que el permafrost se derretiría 90 años más temprano que lo
-predicho y los graciares de Himalaya se derretirían dos veces más rápido de los esperado," escribe.
+predicho y los glaciares de Himalaya se derretirían dos veces más rápido de los esperado," escribe.
 "Las retroalimentaciones y el calor encerrado nos llevarían sobre los 2°C incluso sin
 tomar en cuenta aumentos adicionales de la temperatura debido a las emisiones de causa humana
 en el transcurso de los próximos diez años."
@@ -128,15 +128,15 @@ de su miedo y decide pararse de lado de quienes se están sacrificando a sí mis
 
 "La única salida es que ocurran negociaciones," escribe. "Sólo entonces se abrirá una oportunidad
 estructural para la transformación de emergencia de la economía que necesitamos. Por supuesto,
-esta propuesta no tiene certeza absoluta de funcionar pero sí posibiliad sustancial." Lo que sí tiene
+esta propuesta no tiene certeza absoluta de funcionar pero sí posibilidad sustancial." Lo que sí tiene
 certeza, sin embargo, es que la actividad reformista de campaña y cabildeo fallará totalmente
 como lo ha hecho por décadas. El cambio estructural que ahora necesitamos objetivamente
-tiene que ocurrir demasiado rápido para cualquier estrategia convecional."
+tiene que ocurrir demasiado rápido para cualquier estrategia convencional."
 
 Ninguna rebelión tiene éxito, Hallam entiende, a menos que apele a un segmento de la élite
 gobernante. Una vez que hayan divisiones en la clase gobernante, la parálisis le sucede y
 al final fragmentos más y más grandes de la élite desertan hacia aquellos quienes se rebelan
-y se rehusan a defender una clase gobernante desacreditada.
+y se rehúsan a defender una clase gobernante desacreditada.
 
 "La acción masiva no puede sólo ser no violenta en un sentido físico pero también debe involucrar
 respeto activo hacia el público y la oposición, sin importar sus respuestas represivas,"
@@ -151,7 +151,7 @@ Escribe específicamente de la policía:
 > calma a los oficiales de policía abriendo la vía a interacciones civilizadas subsecuentes.
 
 > Las acciones de Extinction Rebelion han consistentemente tratado a la policía de una manera
-> respetuosa cuando nos arrestan y en las estaciones de policía, entablando coversaciones cortas
+> respetuosa cuando nos arrestan y en las estaciones de policía, entablando conversaciones cortas
 > y bastante a menudo en discusiones políticas y otros temas donde los activistas puedan
 > tener afinidad (desigualdad, pago injusto). Si los policías inicialmente obstruyen a los activistas,
 > pueden volverse más abiertos por una disposición a interactuar y a escucharlos.
@@ -163,7 +163,7 @@ Escribe específicamente de la policía:
 > La rebelión también requerirá romper la ley repetidamente. Esto significará pasar tiempo en cárceles
 > y prisiones.
 
-"Sería beficioso para la Rebelión que la gente esté en prisión antes del evento mayor de resistencia civil
+"Sería beneficioso para la Rebelión que la gente esté en prisión antes del evento mayor de resistencia civil
 para crear publicidad nacional," escribe Hallam, a quien encarcelaron por seis semanas este otoño en Londres.
 "La mejor manera de potencialmente hacer esto es que la gente haga actos repetidos de desobediencia
 civil pacífica y entonces lea en voz alta declaraciones tan pronto entre a la corte, ignorando al juez
@@ -191,7 +191,7 @@ incluyendo plantar billones de árboles para absorber el CO<sub>2</sub>. Una de 
 en las que un individuo puede directamente reducir su impacto ambiental sobre el planeta es
 [comer una dieta libre de productos animales](https://www.theguardian.com/environment/2018/may/31/avoiding-meat-and-dairy-is-single-biggest-way-to-reduce-your-impact-on-earth?fbclid=IwAR3_x2Qza-4NjD2GxX6EImKRcIstEN2-3JPjxHtcHrGgDZ8JBb-rkZjUh94).
 La industria agrícola animal compite con la industria de los
-cómbustibles fósiles como una de las más grandes causas multi-factoriales de la catástrofe climática.
+combustibles fósiles como una de las más grandes causas multi-factoriales de la catástrofe climática.
 
 El peligro, puntualiza Hallam, es que si no actuamos pronto desencadenaremos retroalimentaciones climáticas
 desenfrenadas o puntos de inflexión en los cuales ningún esfuerzo para contener las emisiones tendrá éxito.

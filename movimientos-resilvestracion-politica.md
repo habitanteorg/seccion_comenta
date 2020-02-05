@@ -8,7 +8,7 @@ categories: ["Cambio Climático"]
 tags: ["cambio climático", "calentamiento global", "medio ambiente", "ecología", "democracia", "participación"]
 ---
 
-_El autor es el ecologísta británico George Monbiot.
+_El autor es el ecologista británico George Monbiot.
 [Artículo original](https://www.monbiot.com/2019/12/23/rewilding-politics/) en inglés._
 
 No es sólo a los gobiernos a los que necesitamos cambiar, sino el sistema político
@@ -18,13 +18,13 @@ pueblos y ciudades.
 Por George Monbiot, publicado en The Guardian el 18 de diciembre de 2019.
 
 Puedes culpar a Jeremy Corbyn por Boris Johnson, y a Hillary Clinton por Donald Trump.
-Puedes culpar a los contendientes indios por Natendra Modi, a la oposición brasileña
+Puedes culpar a los contendientes indios por Narendra Modi, a la oposición brasileña
 por Jair Bolsonaro, y a los partidos de izquierda y centro en Australia, las Filipinas,
 Hungría, Polonia y Turquía por desastres electorales similares. O podrías reconocer
 que estamos siendo testigos de un fenómeno global.
 
 Sí, han habido fallas individuales en todos estos casos, aunque las fallas fueron
-muy diferentos: opuestos polares en los casos de Corbyn y Clinton. Pero cuando la misma
+muy diferentes: opuestos polares en los casos de Corbyn y Clinton. Pero cuando la misma
 cosa ocurre en muchas naciones, es momento de reconocer el patrón, y ver que amontonar
 la culpa sobre gente y partidos particulares no arregla nada.
 
@@ -61,23 +61,23 @@ resistente a la política de la post-verdad.
 
 No esperes que el gobierno de Johnson, o el de Trump, inocule a la gente contra sus
 propias mentiras. Pero esto no tiene que ser una iniciativa de gobierno. Esta semana,
-los demócratas de Estados Unidos publciaron una [guía para confrontar la desinformación](https://democrats.org/who-we-are/what-we-do/disinfo/)
+los demócratas de Estados Unidos publicaron una [guía para confrontar la desinformación](https://democrats.org/who-we-are/what-we-do/disinfo/)
 en línea. Buscarán obligar a Google, Facebook y Twitter a rendir cuentas. Me gustaría
 ver que los partidos progresistas de todas partes formaran una coalición global promoviendo
 el alfabetismo digital, y presionando a las plataformas de redes sociales para que detengan
-la promoción falsedades.
+la promoción de falsedades.
 
 Pero ésta es la tarea menos importante. El cambio mucho mayor es éste: detener la búsqueda
 de control sobre la gente desde el centro. En este momento el model político, para casi
 todos los partidos, es conducir el cambio verticalmente (de arriba hacia abajo).
 Escriben un manifiesto, que esperan que se convierta en política gubernamental, el cual
-quizá se somenta a consultas estrechas y endebles, lo cual luego lleva a legislación,
+quizá se someta a consultas estrechas y endebles, lo cual luego lleva a legislación,
 lo cual luego lleva a cambio. Creo que el mejor antídoto para la demagogia es el
 proceso opuesto: la confianza radical. En la mayor medida posible, los partidos y gobiernos
 deben confiar en que las comunidades identifiquen sus propias necesidades y tomen sus
 propias decisiones.
 
-En los últimos años, nuestra relación con la naturaleza a empezado a transformarse por
+En los últimos años, nuestra relación con la naturaleza ha empezado a transformarse por
 un nuevo enfoque: la [resilvestración](https://www.monbiot.com/2013/05/24/feral-searching-for-enchantment-on-the-frontiers-of-rewilding/).
 Tan extraño como suene, creo que este pensamiento podría ayudar a informar un nuevo modelo
 de política. Es tiempo de la resilvestración política.
@@ -94,9 +94,9 @@ Eventualmente, e inevitablemente, estos intentos de control fallan. Las reservas
 manejadas de esta forma tienden a perder abundancia y diversidad, y a requerir intervenciones
 cada vez más extremas para cumplir las demandas irracionales de sus encargados. También se vuelven
 vulnerables. En todos los sistemas, la complejidad tiende a ser resiliente, mientras la simplicidad
-tiene a ser frágil. Mantener la naturaleza en un estado de desarrollo arrestado, en el cual
+tiende a ser frágil. Mantener la naturaleza en un estado de desarrollo arrestado, en el cual
 la mayoría de sus procesos naturales y sus especies clave (los animales que conducen estos procesos)
-faltan, la hace altamente susceptible al desmoronamiento climático y las especies invasoras.
+faltan, la hace altamente susceptible al desmoronamiento climático y a las especies invasoras.
 Pero la resilvestración – permitir que la organización dinámica, espontánea se reafirme – puede
 resultar en el florecimiento súbito, [a menudo de formas completamente inesperadas](https://treesforlife.org.uk/),
 con una gran mejora en la resiliencia.
@@ -108,8 +108,8 @@ altamente inestables y faltos de dinamismo: susceptibles al colapso, como muchos
 pueden evidenciar, y a la vez incapaces de regenerarse a sí mismos. Se vuelven vulnerables
 a las fuerzas tóxicas, invasivas del etnonacionalismo y el supremacismo.
 
-Pero en algnas partes del mundo, pueblos y ciudades han [empezado a resilvestrar la política](https://www.theguardian.com/commentisfree/2019/oct/24/will-of-the-people-british-democracy).
-Los concejos han catalisado la participación masiva, y luego, en la mayor medida posible,
+Pero en algunas partes del mundo, pueblos y ciudades han [empezado a resilvestrar la política](https://www.theguardian.com/commentisfree/2019/oct/24/will-of-the-people-british-democracy).
+Los concejos han catalizado la participación masiva, y luego, en la mayor medida posible,
 han retrocedido y permitido que evolucione. Ejemplos clásicos incluyen [la presupuestación participatoria en Porto Alegre](http://www2.portoalegre.rs.gov.br/op/), Brasil,
 el [sistema Decide Madrid](https://www.opendemocracy.net/democraciaabierta/bernardo-guti-rrez/madrid-as-democracy-lab)
 en España y el [programa Better Reykjavik](https://reykjavik.is/en/better-reykjavik-0) en Islandia.
@@ -123,16 +123,10 @@ en la vida local. La política participatoria no requiere la bendición de gobie
 sólo un autoridad local segura de sí misma y con visión de futuro.
 
 Es ésta una fórmula para que un partido particular retome el poder? No. Es mucho más grande
-que esto. Es una fórmula para tomar de vuelta el control, haciendo a nuestra comunidades
+que esto. Es una fórmula para tomar de vuelta el control, haciendo a nuestras comunidades
 más resilientes y que las maquinaciones de cualquier gobierno en Westminster sean menos relevantes.
 Esta devolución radical es la mejor defensa contra la captura por cualquier fuerza política.
 Cambiemos la naturaleza de la política en este país (Reino Unido). Permitamos que las
-dinámicas fascinantes, impredecibles de una sociedad que funcione emerjan. Que empiece el barullo salvaje.
+dinámicas fascinantes, impredecibles de una sociedad que funciona emerjan. Que empiece el barullo salvaje.
 
 www.monbiot.com
-
-
-
-
-
-
