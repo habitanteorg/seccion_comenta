@@ -1,11 +1,11 @@
 ---
-title: "Cambio Climático: Lo más que podamos hacer"
+title: "Clima: Lo más que podamos hacer"
 linkTitle: "Lo más que podamos hacer"
 date: 2020-01-31
 slug: "cambio-climatico-lo-mas-que-podamos-hacer"
 authors: ["atta-cephalotes"]
 categories: ["Cambio Climático"]
-tags: ["cambio climático", "calentamiento global", "medio ambiente", "ecología", "democracia", "participación"]
+tags: ["cambio climático", "calentamiento global", "medio ambiente", "ecología", "Reino Unido"]
 ---
 
 _El autor es el ecologista británico George Monbiot.

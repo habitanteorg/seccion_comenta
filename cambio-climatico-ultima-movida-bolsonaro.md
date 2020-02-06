@@ -1,5 +1,5 @@
 ---
-title: "Cambio Climático: Exgeneral asume protección del Amazonas en Brasil"
+title: "Clima: Exgeneral asume protección del Amazonas en Brasil"
 linkTitle: "Última movida de Bolsonaro"
 date: 2020-02-03
 slug: "cambio-climatico-ultima-movida-bolsonaro"

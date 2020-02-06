@@ -1,5 +1,5 @@
 ---
-title: "Cambio climático: Cómo salvar al planeta y a nosotros mismos"
+title: "Clima: Cómo salvar al planeta y a nosotros mismos"
 linkTitle: "Cómo salvar al planeta"
 date: 2019-11-18
 slug: "cambio-climatico-salvar-nos-y-al-planeta"
